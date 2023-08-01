@@ -9,7 +9,7 @@
   }
   
   body {
-    background-color: #212833;
+    background-color: #5cdb95;
   }
   
   #main {
@@ -21,14 +21,14 @@
   
   #header {
     flex: 0 1 80px;
-    background-color:aqua;
+    background-color:#05386b;
     /* height: 80px; */
   }
   
   #title {
     text-align: center;
     font-size: 27px;
-    color:blueviolet;
+    color:#edf5e1;
     padding-top: 20px;
     font-weight: bold;
   }
@@ -44,7 +44,7 @@
   }
   a {
     text-decoration: none;
-    color:white;
+    color:#05386b;
     font-size: 20px;
   }
   .algo-container {
@@ -76,7 +76,7 @@
   .footer {
     margin-top: auto;
     align-self: center;
-    color: antiquewhite;
+    color: #05386b;
   }
 
   .social-container {
@@ -84,7 +84,7 @@
     flex-direction: row;
     font-weight: bold;
     font-size: 30px;
-    color:antiquewhite;
+    justify-content: center;
   }
 
   .fa {
@@ -95,22 +95,15 @@
     text-decoration: none;
     margin: 5px 15px;
     border-radius: 50%;
+    color: white;
   }
 
   .fa-twitter {
-    
-    background-color: darkblue;
-    
+    background-color: #05386b;
   }
-  
-  .fa-facebook {
-    background-color: #3b5998;
+  .fa-linkedin {
+    background-color: rgb(6, 6, 243);
   }
-  
-  .fa-instagram {
-    background-color: purple;
-  }
-  
   .fa-github {
     background-color: black;
   }
