@@ -10,7 +10,7 @@
   }
   
   body {
-    background-color: #212833;
+    background-color: #5cdb95;
   }
 
   .container {
@@ -28,14 +28,14 @@
     flex: 0 1 70px;
     height: 70px;
     overflow: hidden;
-    background-color: aqua;
+    background-color: #05386b;
     position: relative;
   }
 
   #title {
     text-align: center;
     font-size: 27px;
-    color: blueviolet;
+    color: #edf5e1;
     padding-top: 20px;
     font-weight: bold;
   }
