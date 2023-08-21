@@ -47,12 +47,21 @@
     left: 20px;
   }
   .button {
-    width: 55px;
+    width: 70px;
+    padding: 5px;
+    background-color: yellow;
+    border-radius: 10px;
+    border-color: black;
+    cursor: pointer;
   }
+
+  
 
   #InsertNodeField,
 #DeleteNodeField {
   width: 110px;
+  padding: 5px;
+  border-radius: 10px;
 }
 #DeleteNodeField {
     margin-left: 10px;
